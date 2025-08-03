@@ -18,7 +18,7 @@ It helps users improve **digital financial literacy** with trusted answers on:
 
 ---
 
-## 🛠 **Project structure**
+## 🛠 Project structure
 📦 IBM-Cloud-FinAI_Advisor-Agent-project
 ├── Knowledge_base/ ← Local text corpus (UPI, fraud, budgeting, etc.)
 ├── granite_generation.py ← Main Python script (retrieval + generation)
@@ -27,7 +27,6 @@ It helps users improve **digital financial literacy** with trusted answers on:
 ├── requirement.txt
 ├── Project.pptx ← Presentation slides
 └── README.md
-
 
 ---
 
