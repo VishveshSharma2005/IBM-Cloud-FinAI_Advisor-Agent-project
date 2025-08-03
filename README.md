@@ -31,47 +31,61 @@ It helps users improve **digital financial literacy** with trusted answers on:
 ---
 
 ## 📦 **Setup & run locally**
-1. Clone this repo:
+
+Clone this repo:
 ```bash
-git clone [https://github.com/VishveshSharma2005/IBM-Cloud-FinAI_Advisor-Agent-project.git](https://github.com/VishveshSharma2005/IBM-Cloud-FinAI_Advisor-Agent-project.git)
+git clone https://github.com/VishveshSharma2005/IBM-Cloud-FinAI_Advisor-Agent-project.git
 cd IBM-Cloud-FinAI_Advisor-Agent-project
+````
+
 Install requirements:
 
-Bash
-
+```bash
 pip install -r requirement.txt
-Create your .env file (see .env.example):
+```
 
-Code snippet
+Create your `.env` file (see `.env.example`):
 
+```env
 API_KEY=your_ibm_api_key_here
 ENDPOINT_URL=your_ibm_granite_endpoint_here
+```
+
 Run:
 
-Bash
-
+```bash
 python granite_generation.py
-🌐 Future scope
-Streamlit web app for public demo
+```
 
-Add multilingual answers (Hindi, Gujarati, etc.)
+---
 
-Integrate Watson Assistant frontend with Granite backend
+## 🌐 **Future scope**
 
-Expand knowledge base with live web data / vector index
+* Streamlit web app for public demo
+* Add multilingual answers (Hindi, Gujarati, etc.)
+* Integrate Watson Assistant frontend with Granite backend
+* Expand knowledge base with live web data / vector index
 
-📚 References
-IBM Watson Discovery: https://cloud.ibm.com/docs/discovery
+---
 
-IBM Granite Models: https://www.ibm.com/products/granite-models
+## 📚 **References**
 
-NPCI UPI: https://www.npci.org.in/what-we-do/upi/product-overvie
+* [IBM Watson Discovery](https://cloud.ibm.com/docs/discovery)
+* [IBM Granite Models](https://www.ibm.com/products/granite-models)
+* [NPCI UPI](https://www.npci.org.in/what-we-do/upi/product-overvie)
+* [RBI Digital Literacy](https://www.rbi.org.in/financialeducation/home.aspx)
+* Lewis et al. (2020). [Retrieval-Augmented Generation](https://arxiv.org/abs/2005.11401)
+* [ChatGPT by OpenAI](https://openai.com/chatgpt) – assisted in drafting, ideation & docs
 
-RBI Digital Literacy: https://www.rbi.org.in/financialeducation/home.aspx
+---
 
-Lewis et al. (2020). Retrieval-Augmented Generation: https://arxiv.org/abs/2005.11401
-
-ChatGPT by OpenAI – assisted in drafting, ideation & docs: https://openai.com/chatgpt
-
-✅ Author: Vishvesh Sharma (2025)
+✅ **Author:** Vishvesh Sharma (2025)
 📌 Personal project for digital financial literacy, built on IBM Cloud.
+
+```
+
+---
+
+✅ Let me know if you'd also like this styled with badges, collapsible sections, or emojis! 🚀
+```
+
