@@ -18,16 +18,16 @@ It helps users improve **digital financial literacy** with trusted answers on:
 
 ---
 
-## 🛠 Project structure
-📦 IBM-Cloud-FinAI_Advisor-Agent-project  
+## 🛠 **Project structure**
+📦 IBM-Cloud-FinAI_Advisor-Agent-project
 ├── Knowledge_base/ ← Local text corpus (UPI, fraud, budgeting, etc.)
 ├── Certificates/ ← All the internship certificates
-├── Result/ ← All the result's snaps of agent 
-├── granite_generation.py ← Main Python script (retrieval + generation)  
-├── .env.example ← Template for your own API keys  
-├── .gitignore  
-├── requirement.txt  
-├── Project.pptx ← Presentation slides  
+├── Result/ ← All the result's snaps of agent
+├── granite_generation.py ← Main Python script (retrieval + generation)
+├── .env.example ← Template for your own API keys
+├── .gitignore
+├── requirement.txt
+├── Project.pptx ← Presentation slides
 └── README.md
 
 ---
