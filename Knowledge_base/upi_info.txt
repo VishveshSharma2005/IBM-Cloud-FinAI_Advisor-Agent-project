@@ -1,0 +1,2 @@
+Unified Payments Interface (UPI) is a real-time payment system developed by NPCI that enables users to link multiple bank accounts to a single mobile application. It allows instant money transfer using a Virtual Payment Address (VPA). UPI works 24x7 and is widely used in India for quick payments.
+To send money via UPI: log in to your UPI-enabled app, select 'Send Money', enter recipient's VPA or scan QR code, enter amount, and confirm using your UPI PIN.
