@@ -79,13 +79,11 @@ python granite_generation.py
 
 ---
 
-✅ **Author:** Vishvesh Sharma (2025)
+<details>
+<summary>✅ Author info</summary>
+
+**Author:** Vishvesh Sharma (2025)  
 📌 Personal project for digital financial literacy, built on IBM Cloud.
 
-```
-
----
-
-✅ Let me know if you'd also like this styled with badges, collapsible sections, or emojis! 🚀
-```
+</details>
 
